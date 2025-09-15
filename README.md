@@ -35,9 +35,12 @@ I am a full-stack developer with experience building web applications using Java
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-FF6F00?style=for-the-badge&logo=java&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![MyBatis](https://img.shields.io/badge/MyBatis-339933?style=for-the-badge&logo=mybatis&logoColor=white)
 
 ### 🗄️ Database
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠️ Tools & Platform
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)

@@ -55,8 +55,8 @@ JSP/Thymeleaf, Bootstrap, Chart.js 등을 활용한 관리자 시스템과
 ## 📊 GitHub Stats
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="170" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" height="170" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_NamDongHa&show_icons=true&theme=default" height="170" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_NamDongHa&theme=default" height="170" /></td>
   </tr>
 </table>
 

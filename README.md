@@ -60,7 +60,7 @@ I am a full-stack developer with experience building web applications using Java
 | 프로젝트명 | 설명 |
 |------------|------|
 | 🚗 **차량 파킹 시스템** <a href="https://github.com/NamDongHa/jsp_servlet_project_2505">🔗 GitHub</a> | JSP/Servlet 기반 스마트 주차 시스템 - 실시간 주차 현황 확인 및 예약 기능 제공 |
-| ☕ **KIOSK 관리자** <a href="https://github.com/NamDongHa/kiosk_user">🔗 GitHub</a> | 카페 주문 및 결제 유저용 키오스크 웹앱 - 포인트, 주문, 결제 등 통합 기능 제공<br> &nbsp;&nbsp;• [KIOSK 유저](https://github.com/NamDongHa/kiosk_admin)<br> &nbsp;&nbsp;• [KIOSK 리액트](https://github.com/NamDongHa/kiosk_user_react) |
+| ☕ **KIOSK 유저** <a href="https://github.com/NamDongHa/kiosk_user">🔗 GitHub</a> | 카페 주문 및 결제 유저용 키오스크 웹앱 - 포인트, 주문, 결제 등 통합 기능 제공<br> &nbsp;&nbsp;• [KIOSK 관리자](https://github.com/NamDongHa/kiosk_admin)<br> &nbsp;&nbsp;• [KIOSK 리액트](https://github.com/NamDongHa/kiosk_user_react) |
 | 🐾 **MyPetLog 리액트** <a href="https://github.com/NamDongHa/mypetlog_customer">🔗 GitHub</a> | 반려동물 관리 플랫폼 - 고객용 리액트 웹앱, 펫 관련 쇼핑몰, 게시판, 펫 정보 등록/조회/관리 기능 제공 |
 
 ---

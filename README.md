@@ -46,16 +46,16 @@ JSP/Thymeleaf, Bootstrap, Chart.js 등을 활용한 관리자 시스템과
 
 | 프로젝트명 | 설명 |
 |------------|------|
-| ☕ **카페 키오스크 관리자 페이지** <a href="https://github.com/YOUR_GITHUB_USERNAME/cafe-admin">🔗 GitHub </a> | 주문 관리, 포인트 적립, 시간대별 매출 통계 |
-| 🚗 **주차 관리 시스템** <a href="https://github.com/YOUR_GITHUB_USERNAME/parking-system">🔗 GitHub </a> | 요금 정책 설정, 할인/정기권 관리, 주차 요금 계산 |
-| 🏦 **은행 계좌 관리 시스템 (Java MVC)** <a href="https://github.com/YOUR_GITHUB_USERNAME/bank-system">🔗 GitHub </a> | 입출금, 이자/수수료 처리, 거래 내역 관리 |
+| ☕ **카페 키오스크 관리자 페이지** <a href="https://github.com/YOUR_GITHUB_NamDongHa/cafe-admin">🔗 GitHub </a> | 주문 관리, 포인트 적립, 시간대별 매출 통계 |
+| 🚗 **주차 관리 시스템** <a href="https://github.com/YOUR_GITHUB_NamDongHa/parking-system">🔗 GitHub </a> | 요금 정책 설정, 할인/정기권 관리, 주차 요금 계산 |
+| 🏦 **은행 계좌 관리 시스템 (Java MVC)** <a href="https://github.com/YOUR_GITHUB_NamDongHa/bank-system">🔗 GitHub </a> | 입출금, 이자/수수료 처리, 거래 내역 관리 |
 
 ---
 
 ## 📊 GitHub Stats
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_NamDongHa&show_icons=true&theme=default" height="170" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?NamDongHa=YOUR_GITHUB_NamDongHa&show_icons=true&theme=default" height="170" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_NamDongHa&theme=default" height="170" /></td>
   </tr>
 </table>

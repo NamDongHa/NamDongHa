@@ -68,7 +68,7 @@ I am a full-stack developer with experience building web applications using Java
 ## 🎓 Education
 
 - **Keimyung University, Department of Electronic Engineering** — Graduated
-
+- **Korea IT Academy, Public Data Convergence Full-Stack Developer Training (900 hours)** — Completed
 ---
 
 ## 📊 GitHub Stats

@@ -1,71 +1,59 @@
+<h1 align="center">Hi 👋, I'm NamDongHa</h1>
+<h3 align="center">A passionate developer from Korea</h3>
+
+<p align="center">
+  🎓 Graduated from Keimyung University, Department of Electronic Engineering
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NamDongHa&label=Visitors&color=brightgreen&style=flat"/>
 </p>
 
-<h2 align="center">👋 Hello, I'm Dongha Nam! 👨‍💻</h2>
-<br>
-
-## About Me
-백엔드 & AI 분야에 관심을 두고 꾸준히 프로젝트를 진행하는 개발자입니다.  
-Java, Spring Boot, MyBatis 기반으로 서버 개발을 경험했고,  
-JSP/Thymeleaf, Bootstrap, Chart.js 등을 활용한 관리자 시스템과  
-카페 키오스크 프로젝트를 통해 **실무에 가까운 기능 구현**을 해왔습니다.  
-
-**목표:** 안정적인 백엔드 로직과 직관적인 UI를 갖춘 서비스를 만드는 풀스택 개발자 🚀  
-
 ---
 
-## 🔧 Tech Stack
-**Backend:**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=java&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+### 💻 Tech Stack
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+#### 🌐 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
-**Database & Infra:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### ⚙️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlet-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
----
-
-## 📁 Portfolio Projects
-
-| 프로젝트명 | 설명 |
-|------------|------|
-| ☕ **카페 키오스크 관리자 페이지** <a href="https://github.com/NamDongHa/cafe-admin">🔗 GitHub </a> | 주문 관리, 포인트 적립, 시간대별 매출 통계 |
-| 🚗 **주차 관리 시스템** <a href="https://github.com/NamDongHa/parking-system">🔗 GitHub </a> | 요금 정책 설정, 할인/정기권 관리, 주차 요금 계산 |
-| 🏦 **은행 계좌 관리 시스템 (Java MVC)** <a href="https://github.com/NamDongHa/bank-system">🔗 GitHub </a> | 입출금, 이자/수수료 처리, 거래 내역 관리 |
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamDongHa&show_icons=true&theme=default" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamDongHa&theme=default" height="170" />
+#### 🛠️ Tools & Platform
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>
 </p>
 
 ---
 
-## 🎓 Education
-- **Korea IT Academy — Full-Stack Development (Digital Convergence)**  
-  Java, Spring Boot, React, JSP, JPA, MyBatis, DB, 프로젝트 경험
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NamDongHa&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamDongHa&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
 ---
 
-## 📫 Contact
-- Email: your.email@example.com  
-- Blog: (기술 블로그 링크)
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
